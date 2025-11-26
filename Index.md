@@ -24,4 +24,3 @@
 - [So-San](https://raw.githubusercontent.com/AndreasDellrud/patterns/refs/heads/main/So-San.md)
 - [Se-Jong](https://raw.githubusercontent.com/AndreasDellrud/patterns/refs/heads/main/Se-Jong.md)
 - [Tong-Il](https://raw.githubusercontent.com/AndreasDellrud/patterns/refs/heads/main/Tong-Il.md)
-- [Hong](https://raw.githubusercontent.com/AndreasDellrud/patterns/refs/heads/main/Hong.md)
